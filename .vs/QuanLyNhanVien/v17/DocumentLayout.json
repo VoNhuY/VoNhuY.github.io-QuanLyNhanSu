@@ -1,0 +1,750 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\nhanvienphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\nhanvienphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\khenthuongkyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\khenthuongkyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\bangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\bangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\controllers\\chucvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\controllers\\chucvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_screenshot 2024-04-21 084553.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_screenshot 2024-04-21 084553.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\loaica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\loaica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\models\\loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\models\\loaicong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\nhanvienviewsmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\nhanvienviewsmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\quanlynhanvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\quanlynhanvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\phongbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\phongbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\phongbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\phongbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\chucvus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\chucvus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\chucvus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\chucvus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\chucvus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\chucvus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\chucvus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\chucvus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\views\\chucvus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\views\\chucvus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|e:\\congviec\\thuctap\\quanlynhanvien\\quanlynhanvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E3953E3-8F75-4270-8C7A-4E9209F4890B}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:38:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tangca.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Tangca.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Tangca.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Tangca.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Tangca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:38:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Phucap.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Phucap.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Phucap.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Phucap.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Phucap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:02:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chucvu.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Chucvu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Chucvu.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Chucvu.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Chucvu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:02:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Khenthuongkyluat.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Khenthuongkyluat.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Khenthuongkyluat.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Khenthuongkyluat.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Khenthuongkyluat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:02:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Nhanvien.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Nhanvien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Nhanvien.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:36:08.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phongban.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Phongban.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Phongban.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Phongban.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Phongban.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:48:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nhanvienphucap.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Nhanvienphucap.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Nhanvienphucap.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Nhanvienphucap.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Nhanvienphucap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:11:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChucvusController.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\ChucvusController.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Controllers\\ChucvusController.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\ChucvusController.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Controllers\\ChucvusController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAJUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:47:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhongbansController.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\PhongbansController.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Controllers\\PhongbansController.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\PhongbansController.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Controllers\\PhongbansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:47:41.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Nhanviens\\Index.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Index.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Nhanviens\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:18:04.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Program.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Program.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:54:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bangluong.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Bangluong.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Bangluong.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Bangluong.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Bangluong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:31:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Nhanviens\\Edit.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Nhanviens\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:37:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:09:37.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanviensController.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\NhanviensController.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Controllers\\NhanviensController.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Controllers\\NhanviensController.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Controllers\\NhanviensController.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAqwGAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:19:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Loaica.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Loaica.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Loaica.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Loaica.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Loaica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:01:03.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hopdong.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Hopdong.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Hopdong.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Hopdong.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Hopdong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:59:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "59c00c1e-b9e9-4119-956a-e3421c87b562_Screenshot 2024-04-21 084553.png - PNG [1089x1079, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_Screenshot 2024-04-21 084553.png",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_Screenshot 2024-04-21 084553.png",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_Screenshot 2024-04-21 084553.png - PNG [1089x1079, 32 bit, PNG]",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\images\\59c00c1e-b9e9-4119-956a-e3421c87b562_Screenshot 2024-04-21 084553.png - PNG [1089x1079, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-24T10:32:18.745Z",
+              "EditorCaption": " - PNG [1089x1079, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Nhanviens\\Create.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Create.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Nhanviens\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:48:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Loaicong.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Loaicong.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Models\\Loaicong.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Models\\Loaicong.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\Models\\Loaicong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:02:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NhanvienViewsModels.cs",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\NhanvienViewsModels.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\NhanvienViewsModels.cs",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\NhanvienViewsModels.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\NhanvienViewsModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:19:18.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Phongbans\\Index.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Index.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Phongbans\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:30:06.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuanLyNhanVien.csproj",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\QuanLyNhanVien.csproj",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\QuanLyNhanVien.csproj",
+              "RelativeToolTip": "QuanLyNhanVien\\QuanLyNhanVien.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T04:17:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Nhanviens\\Delete.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Nhanviens\\Delete.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:48:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Phongbans\\Edit.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Phongbans\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T02:02:26.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Phongbans\\Delete.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Phongbans\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T02:02:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T02:02:44.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T02:02:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T02:03:02.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:54:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:54:50.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Phongbans\\Create.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Phongbans\\Create.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Phongbans\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:19:04.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Chucvus\\Delete.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Chucvus\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:48:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Chucvus\\Create.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Create.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Chucvus\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:46:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Chucvus\\Details.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Details.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Chucvus\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:48:16.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Chucvus\\Edit.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Chucvus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T05:46:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Nhanviens\\Details.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Nhanviens\\Details.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Nhanviens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:48:34.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Views\\Chucvus\\Index.cshtml",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\Views\\Chucvus\\Index.cshtml",
+              "RelativeToolTip": "QuanLyNhanVien\\Views\\Chucvus\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:59:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\appsettings.Development.json",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\appsettings.Development.json",
+              "RelativeToolTip": "QuanLyNhanVien\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T07:54:38.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T07:47:34.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T07:47:30.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T07:47:24.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T07:47:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\CONGVIEC\\THUCTAP\\QuanLyNhanVien\\QuanLyNhanVien\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "QuanLyNhanVien\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T07:47:14.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

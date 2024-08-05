@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QuanLyNhanVien.Models.Phongban>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-controller="Phongbans" asp-action="Index">
+    <p>
+        Tên phòng ban: <input type="text" name="id" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tenpb)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenpb)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idpb">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idpb">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idpb">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
